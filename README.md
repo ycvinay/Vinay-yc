@@ -1,2 +1,2 @@
-# Vinay-yc
+# About me
 My Personal Repository
